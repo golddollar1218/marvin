@@ -278,6 +278,13 @@ body,
   border-color: var(--line);
 }
 
+.official-links-list a strong {
+  font-size: 13px;
+  letter-spacing: -0.04em;
+  line-height: 1.2;
+  overflow-wrap: normal;
+}
+
 .swappy-girls-section:before {
   background: #050814 url("brand/energy-band.png") center / cover no-repeat;
   border-color: var(--line);
